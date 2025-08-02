@@ -7,6 +7,7 @@ This project applies machine learning techniques to analyze two distinct dataset
 - `DefineAndSolveMLProblem.ipynb` — Main Jupyter notebook with data analysis, model training, and evaluation
 - `bookReviewsData.csv` — Dataset containing book review information
 - `censusData.csv` — Dataset with demographic information
+- `airbnbListingsData.csv` — Dataset containing Airbnb property listings with pricing, location, and host information
 
 ## Objectives
 
